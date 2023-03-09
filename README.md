@@ -31,5 +31,4 @@ Note: "The dataset will not be shared as it is confidential."
 ✶**customer_value_total_ever_online:** The total fee paid by the customer for their online shopping
 
 ✶**interested_in_categories_12:** List of categories the customer has shopped in the last 12 months
-### ALT BAŞLIK
-#### ALT ALT BAŞLIK
+
