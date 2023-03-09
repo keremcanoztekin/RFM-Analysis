@@ -4,6 +4,7 @@
 FLO, the online shoe store, wants to segment its customers and determine marketing strategies based on these segments. To achieve this, groups will be formed based on the clustering of customer behaviors.
 ## 📊 DATASET STORY
 The dataset consists of the information obtained from the past shopping behavior of customers who made their last purchases from Flo as OmniChannel (both online and offline shopper) between 2020 and 2021.
+
 Note: "The dataset will not be shared as it is confidential."
 
 ## 📌 VARIABLES
