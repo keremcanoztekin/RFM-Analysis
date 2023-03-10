@@ -1,6 +1,6 @@
 # RFM-Analysis
 
-![rfm](https://user-images.githubusercontent.com/103461795/224351595-cb79228c-dbe0-4d36-9379-9fdd4679d404.png =300x)
+![rfm](https://user-images.githubusercontent.com/103461795/224351595-cb79228c-dbe0-4d36-9379-9fdd4679d404.png=300x)
 
 
 
