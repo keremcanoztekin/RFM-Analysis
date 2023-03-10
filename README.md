@@ -1,6 +1,7 @@
 # RFM-Analysis
 
-![rfm](https://user-images.githubusercontent.com/103461795/224349821-2b0ec891-a1ca-4cf1-968b-018ecf0e8c85.png)
+![rfm](https://user-images.githubusercontent.com/103461795/224349821-2b0ec891-a1ca-4cf1-968b-018ecf0e8c85.png =200x150)
+
 
 FLO, the online shoe store, wants to segment its customers and determine marketing strategies based on these segments. To achieve this, groups will be formed based on the clustering of customer behaviors.
 ## 📊 DATASET STORY
